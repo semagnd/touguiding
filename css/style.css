@@ -1,0 +1,9 @@
+.panel-style {
+	color:red !important;
+	text-align: center;
+}
+.col-lg-12 {
+
+    background-image: url("../img/white.jpg");
+    background-color: #cccccc;
+}
